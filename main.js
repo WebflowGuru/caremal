@@ -1,4 +1,4 @@
-// Function to update the qualification status based on button clicks
+// Moheen Function to update the qualification status based on button clicks
 function updateQualificationStatus() {
   // Get the elements representing the Yes buttons
   var yesButton1 = document.getElementById("yesButton1");
